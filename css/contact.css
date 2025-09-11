@@ -1,0 +1,23 @@
+.btn{
+    background-color: navy;
+    color: #c5b358;
+    border-color: navy;
+    
+}
+
+.btn:hover {
+    color: navy;
+    background-color: #c5b358;
+    border-color: #c5b358
+}
+
+.container {
+    padding-top: 50px;
+}
+
+body {
+  background: url('img/logo.png'); /* Replace with your image path */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
